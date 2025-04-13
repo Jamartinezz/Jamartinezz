@@ -5,7 +5,7 @@
   <img 
     align="right" 
     src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" 
-    width="550" 
+    width="250" 
     alt="Busy Bear"
   />
 </div>
